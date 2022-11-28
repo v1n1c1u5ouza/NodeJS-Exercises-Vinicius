@@ -1,0 +1,22 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Ex01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/v1n1c1u5ouza/NodeJS-Exercises-Vinicius.git"
+  },
+  "author": "Vinicius de Souza Marinho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/v1n1c1u5ouza/NodeJS-Exercises-Vinicius/issues"
+  },
+  "homepage": "https://github.com/v1n1c1u5ouza/NodeJS-Exercises-Vinicius#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
